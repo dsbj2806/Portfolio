@@ -1,0 +1,138 @@
+# THE DEEP CURRENT
+## Personal Color & Visual Identity Guide
+**Version 1.0**
+
+### 1. Core identity
+
+The Deep Current is a visual identity inspired by oceanic depth, intellectual curiosity, modern technology, exploration and creative freedom.
+
+It combines vibrant aquatic blues with deep navy tones, muted natural colors and restrained warm accents.
+
+The identity should communicate:
+
+- Intelligence without corporate coldness.
+- Modernity without looking futuristic or artificial.
+- Creativity without visual chaos.
+- Freshness without excessive brightness.
+- Sophistication without pretentiousness.
+- Exploration, depth and curiosity.
+
+**Personality keywords:** Curious, analytical, creative, adventurous, observant, modern, thoughtful, independent.
+
+**Central motto:** There is always more beneath the surface.
+
+### 2. Official color palette
+
+Preserve these HEX values exactly.
+
+| Color | HEX | Purpose |
+|---|---|---|
+| Current Blue | `#0095B6` | Signature primary color |
+| Abyss | `#082B36` | Deep backgrounds and contrast |
+| Ocean Navy | `#102F46` | Structure and sophistication |
+| Petrol | `#145766` | Secondary aquatic color |
+| Sea Glass | `#A8D0CC` | Soft accents and surfaces |
+| Arctic Mist | `#DCEBE8` | Light backgrounds |
+| Warm Ivory | `#F3EEE3` | Typography and warmth |
+| Stone | `#C9B69B` | Natural neutral |
+| Coral | `#D97757` | Warm expressive accent |
+| Amber | `#C69A3A` | Selective highlights |
+
+### 3. Color distribution
+
+Recommended proportions:
+
+- 35% — Abyss and Ocean Navy.
+- 25% — Arctic Mist and Warm Ivory.
+- 20% — Current Blue.
+- 10% — Petrol and Sea Glass.
+- 10% — Coral and Amber.
+
+These proportions are guidelines, not strict requirements.
+
+Current Blue should remain recognizable as the signature color.
+
+### 4. Visual direction
+
+**Preferred aesthetic:**
+
+- Modern editorial design.
+- Aquatic and oceanic visual references.
+- Contemporary Japanese design.
+- Minimalist architecture.
+- Cinematic photography.
+- Modern scientific and technological aesthetics.
+- Clean geometric compositions.
+- Subtle gradients inspired by water and atmospheric light.
+
+**Typography:**
+
+- Contemporary sans-serif fonts for primary headings.
+- Elegant serif fonts for editorial contrast.
+- Clean, readable typography for technical content.
+- Generous spacing and intentional hierarchy.
+
+### 5. Textures and materials
+
+Preferred visual textures:
+
+- Deep ocean water.
+- Glass and translucent materials.
+- Brushed aluminum.
+- Matte surfaces.
+- Natural stone.
+- Soft photographic grain.
+- Reflections and atmospheric lighting.
+- Subtle gradients and layered surfaces.
+
+### 6. Recurring visual references
+
+The identity draws inspiration from:
+
+- Ocean depths and underwater photography.
+- Modern architecture.
+- Science, mathematics and technology.
+- Japanese graphic design.
+- Contemporary editorial photography.
+- Aquatic landscapes and coastal environments.
+- Cinematic blue-hour photography.
+- Minimalist industrial design.
+
+These references are optional sources of inspiration, not mandatory design elements.
+
+### 7. What to avoid
+
+Unless explicitly requested, avoid:
+
+- Generic corporate turquoise branding.
+- Excessive neon cyan.
+- Overly saturated gradients.
+- Generic cryptocurrency aesthetics.
+- Excessive glassmorphism.
+- Cartoonish aquatic illustrations.
+- Excessive tropical or beach-themed imagery.
+- Unnecessary glowing effects.
+- Overuse of warm accent colors.
+
+### 8. Instructions for AI systems
+
+When generating visual material using this identity:
+
+1. Use `#0095B6` as the defining signature color.
+2. Preserve all official HEX values.
+3. Build depth using Abyss, Ocean Navy and Petrol.
+4. Use Arctic Mist and Warm Ivory to introduce breathing room.
+5. Use Coral and Amber sparingly.
+6. Maintain excellent readability and contrast.
+7. Adapt the palette to the medium and purpose.
+8. Do not force every palette color into every composition.
+9. Maintain consistency across related designs.
+10. Prioritize atmosphere, composition and intentional color relationships.
+
+### 9. Final creative principle
+
+**The Deep Current is about what lies beneath the surface.**
+
+It represents curiosity, depth, exploration and the balance between analytical thinking and creative expression.
+
+Every design should feel contemporary, intelligent, fluid and quietly distinctive.
